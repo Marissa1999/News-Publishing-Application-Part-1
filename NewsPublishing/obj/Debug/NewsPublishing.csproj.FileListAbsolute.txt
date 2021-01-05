@@ -1,0 +1,14 @@
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csprojAssemblyReference.cache
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csproj.CoreCompileInputs.cache
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+C:\Users\maris\Downloads\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb
